@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**eduardobamberg/eduardobamberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+- 🔭 I’m currently  a procura de estágio
+- 🌱 I’m currently learning  linguagem em c
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me:  eduardobamberg@hotmail.com
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
